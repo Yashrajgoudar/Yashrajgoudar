@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Yashrajgoudar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me Ph No : +917899625091
--                     Email : yashofbel@gmail.com
+- 👋 Hi, I’m Yashraj Goudar
+- 👀 I’m interested in UI Development
+- 🌱 I’m currently learning Java Full Stack Development
+- :man_office_worker: Currently looking for a job as a UI Developer and Java Full Stack Developer
+- 📫 How to reach me 
+-     Ph No : +917899625091
+-     Email : yashofbel@gmail.com
 
-<!---
-Yashrajgoudar/Yashrajgoudar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Technologies and Tools I use
